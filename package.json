@@ -21,7 +21,7 @@
     "postcss": "^8.4.32"
   },
   "engines": {
-  "node": "18.x"
+  "node": "22.x"
   }
 
 }
